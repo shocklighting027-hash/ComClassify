@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# тяжёлые файлы моделей (больше лимита GitHub в 100 МБ)
+models/
+notebooks/models/
